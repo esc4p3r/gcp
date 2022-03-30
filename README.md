@@ -1,2 +1,0 @@
-# gcp
-test GCP f 
